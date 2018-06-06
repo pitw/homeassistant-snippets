@@ -1,6 +1,6 @@
 # Use Temperature and Humidity from EDIMAX IC-7113W with Homeassistant
 
-**Example Config in HA**
+**Example Config in HA** (Change Cam IP, Cam User and Cam Password in py - Files above)
 
 sensor:
    - platform: command_line
